@@ -138,7 +138,7 @@ List of tutorial participants
 - Melissa Santos (Stanford University)
 - Karen Smith (University of Wisconsin-Madison)
 - Lillian Xu (University of Wisconsin-Madison)
-
+- Staci Meredith Weiss (Temple Unversity)
 .. _Github issues overview:
 
 Checking for and creating issues on Github
